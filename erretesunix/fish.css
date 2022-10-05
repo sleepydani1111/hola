@@ -1,0 +1,44 @@
+
+body{
+    font-family:Impact;
+    text-align: justify;
+    background-color: #A9E2F3;
+}
+
+#titulo {
+    text-align: center;
+    font-family: 'Lilita One', cursive;
+    font-size: 60px;
+    padding: 30px;
+    background-color: #81BEF7;
+}
+
+footer {
+    width: 100%;
+    padding: 50px;
+    font-family: sans-serif;
+    background: #81BEF7;
+}
+
+footer p {
+    margin: 10px;
+    font-size: 25px;
+    text-align: center;
+    font-weight: bold;
+}
+
+.contenedor-logo {
+    width: 300px;
+    margin: 25px auto;
+}
+
+.contenedor-logo img {
+    width: 100%;
+}
+
+#p1 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size:30px 
+}
+
+
